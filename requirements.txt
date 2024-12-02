@@ -1,0 +1,1 @@
+To reproduce the project you need to import pandas, numpy, yfinance, matplotlib.pyplot, and matplotlib.dates with the most updated version.
